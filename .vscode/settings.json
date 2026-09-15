@@ -1,0 +1,4 @@
+{
+    "jupyter.notebookFileRoot": "${fileDirname}",
+    "python.defaultInterpreterPath": "/home/ghost/anaconda3/envs/analysis/bin/python"
+}
